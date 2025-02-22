@@ -58,12 +58,4 @@ The app will run on **http://localhost:3000/**
 - ✅ Add password hashing for security
 - ✅ Implement authentication with **JWT**
 
-## 📜 License
-This project is licensed under the **MIT License**.
-
----
-### 📩 Need Help?
-If you have any questions or issues, feel free to **open an issue** in the repository or reach out!
-
-**Happy Coding! 🚀**
 
